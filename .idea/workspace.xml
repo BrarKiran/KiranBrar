@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="780ca00b-6dc9-4009-81ac-f3d7f4c07336" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaMarch2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment1/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2/CircleArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2/MonthClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2/SquareArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2/Vote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment2/WeekClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment3/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment3/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment3/NaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment3/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment3/SumOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment3/Tables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RectPerimeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eWbo5nam7SOe7ymirSQ9ktxGAY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Alphabet.executor": "Run",
+    "Application.CircleArea.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MonthClass.executor": "Run",
+    "Application.NaturalNumbers.executor": "Run",
+    "Application.Numbers.executor": "Run",
+    "Application.RectPerimeter.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.SquareArea.executor": "Run",
+    "Application.SumOfNumbers.executor": "Run",
+    "Application.Tables.executor": "Run",
+    "Application.TrafficLight.executor": "Run",
+    "Application.Vote.executor": "Run",
+    "Application.WeekClass.executor": "Run",
+    "Application.sumofNumbers.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.RectPerimeter">
+    <configuration name="MonthClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment2.MonthClass" />
+      <module name="JavaMarch2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaturalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment3.NaturalNumbers" />
+      <module name="JavaMarch2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectPerimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RectPerimeter" />
+      <module name="JavaMarch2024" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rectangle" />
+      <module name="JavaMarch2024" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment3.SumOfNumbers" />
+      <module name="JavaMarch2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignment3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RectPerimeter" />
+        <item itemvalue="Application.MonthClass" />
+        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.SumOfNumbers" />
+        <item itemvalue="Application.NaturalNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="780ca00b-6dc9-4009-81ac-f3d7f4c07336" name="Changes" comment="" />
+      <created>1712023458078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712023458078</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RectPerimeter.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
